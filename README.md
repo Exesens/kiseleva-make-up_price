@@ -1,5 +1,6 @@
 <html lang="ru">
     <body>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <header>
         <body style="background-color:#000000">
          <img src="https://imageup.ru/img169/4912502/1.jpg" alt="Прайс 1">
