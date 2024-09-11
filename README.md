@@ -1,6 +1,7 @@
 <html lang="ru">
     <body>
         <header>
+        <body style="background-color:#000000">
          <img src="https://imageup.ru/img169/4912502/1.jpg" alt="Прайс 1">
          <img src="https://imageup.ru/img202/4912503/2.jpg" alt="Прайс 2">
          <img src="https://imageup.ru/img34/4912510/3.jpg" alt="Прайс 3">
