@@ -3,7 +3,7 @@
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
         <header>
         <body style="background-color:#000000">
-         <img src="https://imageup.ru/img169/4912502/1.jpg" alt="Прайс 1">
+         <img src="https://disk.yandex.ru/i/cQqotuWkY2Z3og" alt="Прайс 1">
          <img src="https://imageup.ru/img202/4912503/2.jpg" alt="Прайс 2">
          <img src="https://imageup.ru/img34/4912510/3.jpg" alt="Прайс 3">
          <img src="https://imageup.ru/img3/4912511/4.jpg" alt="Прайс 4">
